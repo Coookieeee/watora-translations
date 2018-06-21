@@ -16,7 +16,7 @@
     "role-not-enough-high" : "Votre rôle n'est pas assez haut.",
     "put-the-role-id-instead" : "Type de commande invalide, vous devez mettre l'ID du rôle, vous pouvez le trouver avec",
     
-    "music-over-used" : "Désolée. Je suis actuellement trop utilisée. Pour garder une bonne péformance globale, vous ne pouvez pas lancer de musique pour le moment...",    
+    "music-over-used" : "Désolée. Je suis actuellement trop utilisée. Pour garder une bonne performance globale, vous ne pouvez pas lancer de musique pour le moment...",    
     "music-no-result" : "Désolée, cette vidéo n'est plus disponible. Essayez d'utiliser {} pour faire une recherche avancée.",
     "music-no-youtube-live" : "N'ajoutez pas de lien youtube pour le moment.",
     "music-playblacklisted" : "Je ne peux pas jouer cette vidéo. Un mot ou l'URL est interdit par la commande {}.",
